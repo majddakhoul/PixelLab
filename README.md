@@ -65,7 +65,7 @@ Explore the hidden structure of color by transforming images into 3D geometric s
 
 ### Build from Source
 1. Clone the repository:
-   git clone https://github.com/yourusername/PixelLab.git
+   git clone https://github.com/majddakhoul/PixelLab.git
 2. Open PixelLab.sln in Visual Studio.
 3. Restore NuGet packages (right-click solution, select Restore NuGet Packages).
 4. Build the solution (Ctrl+Shift+B).
